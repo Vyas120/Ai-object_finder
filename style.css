@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color: teal;
+    color: whitesmoke;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start{
+    background-color: teal;
+    color: whitesmoke;
+}
+
+#num_ob, #status{
+    background-color: teal;
+    color: whitesmoke;
+}
+
+.footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    background-color: teal;
+    line-height: 2;
+    color: whitesmoke;
+}
+
+canvas{
+    border: teal;
+    border-radius: 20px;
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px grey;
+}
